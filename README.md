@@ -98,3 +98,6 @@ Improving our model:
 - More features ("higher dimension" feature vectors)
 - K-fold Cross Validation → select highest accuracy model
 - Started investigating Random Forests, which have promise
+
+
+[Sustainable Farming.pptx.pdf](https://github.com/tubes886/sustainable-farming/files/7436832/Sustainable.Farming.pptx.pdf)
