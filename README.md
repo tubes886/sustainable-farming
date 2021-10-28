@@ -3,7 +3,7 @@ By Tuba Balta, Kaitlyn Baughman, Drake Du, Ariann Ghatate.
 
  A decision tree regressor model with the goal of aiding sustainable farming efforts, using data collected from over one thousand of barley farms about their crop yields and soil bacterial composition to predict and determine whether a plot of land is worth deforestation to make new barley farmland.
 
-# background:
+# background
 
 Farmland...
   - is one of the largest consumers of water in the US
@@ -15,7 +15,7 @@ How can we combat the negative effects of agriculture?
   - Decreasing agricultural land
   - Increasing efficiency and reducing waste of farmland
 
-# our model:
+# our model
 
 Predicts crop yield from the bacterial composition of a soil, allowing us to choose the best farms for agriculture, while freeing up land that does not produce efficiently
 
@@ -30,7 +30,7 @@ Data:
 
 1344 farms sampled, 650 types of bacteria recorded
 
-# creating + evaluating models:
+# creating + evaluating models
 1. Removed low prevalence bacteria (present in <10 samples)
 2. Log-normalized bacteria counts dataset
 3. Split data into training data and test data
@@ -38,7 +38,7 @@ Data:
 5. Evaluated regression models using 3 metrics (coefficient of determination, mean absolute error, and relative squared error)
 6. Compared our best regression model to random chance
 
-# model selection- how and why did we choose the model that we did?
+# model selection: how and why did we choose the model that we did?
 
 Three different regression models:
   - K-nearest neighbors regression (KNN)
