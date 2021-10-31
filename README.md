@@ -1,7 +1,7 @@
 # sustainable-farming
 By Tuba Balta, Kaitlyn Baughman, Drake Du, Ariann Ghatate.
 
- A decision tree regressor model with the goal of aiding sustainable farming efforts, using data collected from over one thousand of barley farms about their crop yields and soil bacterial composition to predict and determine whether a plot of land is worth deforestation to make new barley farmland.
+ A decision tree regressor model with the goal of aiding sustainable farming efforts, using data collected from over one thousand barley farms about their crop yields and soil bacterial composition to predict and determine whether a plot of land is worth deforestation to make new barley farmland.
 
 # background
 
